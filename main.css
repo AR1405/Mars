@@ -104,7 +104,7 @@ a:hover {
   color: var(--clr-gray);
   font-weight: var(--fw-light);
 }
-
+/* 
 .temp {
   --border: solid .25em var(--clr-accent-dark);
   -ms-grid-column: 2;
